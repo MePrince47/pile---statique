@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1665838651 source:c:\users\hitech tuning\desktop\projet c\nzekon\pile\pile - statique\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1665836187 c:\users\hitech tuning\desktop\projet c\nzekon\pile\pile - statique\main.h
+
